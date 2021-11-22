@@ -1,69 +1,72 @@
 # FOSS-Android
-List of [free and open-source](https://en.wikipedia.org/wiki/Free_and_open-source_software) alternatives to proprietary Android apps.
+[Lista Original]:(https://github.com/theel0ja/foss-android/edit/master/README.md)
+Traduzido e adaptado por [mim] (https://github.com/higorslva)
 
-Feel free to [contribute](https://github.com/theel0ja/foss-android/edit/master/README.md), [fork](https://github.com/theel0ja/foss-android/fork) and star this list. :)
+Lista de software [livres e códigos abertos](https://pt.wikipedia.org/wiki/Software_livre_e_de_c%C3%B3digo_aberto) alternativos para softwares proprietarios no Android.
 
-## Operating system
+Sinta-se livre para [contribuir](https://github.com/theel0ja/foss-android/edit/master/README.md), [forkear](https://github.com/theel0ja/foss-android/fork) e favoritar essa lista. :)
+
+## Sistema Operacional
 
 |Proprietary app|FOSS App|
 |---------------|--------|
-|Android|[microG fork of LineageOS](https://lineage.microg.org/) (if available), [LineageOS](https://lineageos.org/)|
-|[Google Play services](https://en.wikipedia.org/wiki/Google_Play_Services)|[microG](https://microg.org/)|
-|[Google Play Store](https://en.wikipedia.org/wiki/Google_Play)|[F-Droid](https://f-droid.org/en/) (FOSS apps only), [Aurora Store](https://f-droid.org/en/packages/com.dragons.aurora/) or [Yalp Store](https://f-droid.org/packages/com.github.yeriomin.yalpstore/) (free Google Play clients)|
+|Android|[Fork Lineage OS com MicroG](https://lineage.microg.org/) (se disponível), [LineageOS](https://lineageos.org/)|
+|[Google Play services](https://pt.wikipedia.org/wiki/Google_Play_Services)|[microG](https://microg.org/)|
+|[Google Play Store](https://pt.wikipedia.org/wiki/Google_Play)|[F-Droid](https://f-droid.org/pt/) (Apenas apps FOSS), [Aurora Store](https://f-droid.org/en/packages/com.dragons.aurora/) ou [Yalp Store](https://f-droid.org/packages/com.github.yeriomin.yalpstore/) (Clientes gratuitos para a Play Store)|
 
-## Must have apps
+## Deve ter esses aplicativos
 
-* [AdAway](https://f-droid.org/packages/org.adaway/) (requires root, I recommend adding `https://energized.pro/blu` as source) or [Blokada](https://blokada.org/) (non-root, [telegram group](https://t.me/blokadachat)) to block ads & some trackers
-* [Copy to Clipboard](https://f-droid.org/en/packages/se.johanhil.clipboard/) or [Share to Clipboard](https://f-droid.org/en/packages/com.tengu.sharetoclipboard/)
+* [AdAway](https://f-droid.org/packages/org.adaway/) (requer acesso root, eu recomendo adicionar `https://energized.pro/blu` como source) ou [Blokada](https://blokada.org/) (sem root, [grupo no telegram](https://t.me/blokadachat)) para bloquear propagandas e outros rastreadores.
+* [Copy to Clipboard](https://f-droid.org/en/packages/se.johanhil.clipboard/) ou [Share to Clipboard](https://f-droid.org/en/packages/com.tengu.sharetoclipboard/)
 
-## Basics
+## Básico
 
-|Purpose of the app|Proprietary app|FOSS App|
+|Propósito do app|App proprietário|App código aberto|
 |------------------|---------------|--------|
-|Maps|[Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en)|[OsmAnd](https://f-droid.org/packages/net.osmand.plus/), [F-Droid Maps](https://f-droid.org/en/packages/com.github.axet.maps/) (based on [MAPS.ME](https://maps.me/))|
-|Photo sync|[Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos&hl=en)|[Nextcloud](https://nextcloud.com/) Instant Upload|
-|Browser|[Chrome](https://play.google.com/store/apps/details?id=com.android.chrome), [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) (has Chromecast libraries)|[Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) (Firefox fork), [Waterfox](https://play.google.com/store/apps/details?id=org.waterfoxproject.waterfox) (Firefox fork, note that not yet available from F-Droid), Tor Browser for Android, [Bromite](https://www.bromite.org/) (Chromium fork, has Adblocking features as well)|
-|Contacts Sync|[Google Contacts](https://en.wikipedia.org/wiki/Google_Contacts)|Nextcloud server with [DAVdroid](https://f-droid.org/en/packages/at.bitfire.davdroid/) ([guide](https://www.davdroid.com/tested-with/nextcloud/))|
-|SMS app|[Android Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging&hl=en), your phone's default|[Silence](https://f-droid.org/en/packages/org.smssecure.smssecure/), [QKSMS](https://f-droid.org/packages/com.moez.QKSMS/), [Signal](https://signal.org/android/apk/) ([open source](https://github.com/signalapp/Signal-Android), proprietary apk, has Google dependencies!)|
-|Keyboard|[Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin), [SwiftKey](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey), your ROM's included keyboard|[Simple Keyboard](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/), [AnySoftKeyboard](https://anysoftkeyboard.github.io/), AOSP Keyboard (included with LineageOS)|
-|Launcher||[Lawnchair](https://f-droid.org/packages/ch.deletescape.lawnchair.plah/) or [KISS Launcher](https://f-droid.org/en/packages/fr.neamar.kiss/) (very minimalistic)
+|Mapas|[Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en)|[OsmAnd](https://f-droid.org/packages/net.osmand.plus/), [F-Droid Maps](https://f-droid.org/en/packages/com.github.axet.maps/) (baseado em [MAPS.ME](https://maps.me/))|
+|Sincronizar fotos|[Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos&hl=en)|[Nextcloud](https://nextcloud.com/) Upload instantâneo|
+|Navegador|[Chrome](https://play.google.com/store/apps/details?id=com.android.chrome), [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) (possui algumas bibliotecas do Chromecast)|[Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) (Fork do Firefox), [Waterfox](https://play.google.com/store/apps/details?id=org.waterfoxproject.waterfox) (Fork do Firefox, não disponível no F-Droid), Tor Browser para Android, [Bromite](https://www.bromite.org/) (Fork do Chromium, com bloqueador de propaganda funcionando bem)|
+|Sincronizar contatos|[Google Contacts](https://en.wikipedia.org/wiki/Google_Contacts)|Servidor Nextcloud com [DAVdroid](https://f-droid.org/en/packages/at.bitfire.davdroid/) ([guia](https://www.davdroid.com/tested-with/nextcloud/))|
+|App de SMS|[Android Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging&hl=en), padrão do seu telefone|[Silence](https://f-droid.org/en/packages/org.smssecure.smssecure/), [QKSMS](https://f-droid.org/packages/com.moez.QKSMS/), [Signal](https://signal.org/android/apk/) ([código aberto](https://github.com/signalapp/Signal-Android), APK proprietário, com dependencias da Google!)|
+|Teclado|[Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin), [SwiftKey](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey), Teclado incluso na sua ROM|[Simple Keyboard](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/), [AnySoftKeyboard](https://anysoftkeyboard.github.io/), Teclado AOSP (incluído na Lineage OS)|
+|App de início (Launcher)||[Lawnchair](https://f-droid.org/packages/ch.deletescape.lawnchair.plah/) ou [KISS Launcher](https://f-droid.org/en/packages/fr.neamar.kiss/) (bem minimalista)
 
-## Productivity
+## Produtividade
 
-|Purpose|Proprietary app|FOSS App|
+|Propósito|App proprietário|App código aberto|
 |-------|---------------|--------|
-|Cloud storage|[Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs), [OneDrive](https://play.google.com/store/apps/details?id=com.microsoft.skydrive), [Dropbox](https://play.google.com/store/apps/details?id=com.dropbox.android)|[Nextcloud](https://nextcloud.com/) (selfhosted)|
-|Email|[Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm), your phone's default Email app|[K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/), [pEp](https://f-droid.org/packages/security.pEp/)|
-|Calendar sync|[Google Calendar](https://www.google.com/calendar/about/)|[Nextcloud Calendar](https://apps.nextcloud.com/apps/calendar)|
-|Calendar client|[Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar)|[Simple Calendar](https://f-droid.org/packages/com.simplemobiletools.calendar/)|
-|Tasks|[Wunderlist](https://play.google.com/store/apps/details?id=com.wunderkinder.wunderlistandroid), [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks)|[Tasks](https://f-droid.org/en/packages/org.dmfs.tasks/) (sync with Nextcloud Tasks with DAVdroid)|
-|PDF Reader|[Google PDF Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.pdfviewer&hl=en_US)|[Document Viewer](https://f-droid.org/en/packages/org.sufficientlysecure.viewer/), [MuPDF](https://f-droid.org/en/packages/com.artifex.mupdf.viewer.app/)|
+|Armazenamento na nuvem|[Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs), [OneDrive](https://play.google.com/store/apps/details?id=com.microsoft.skydrive), [Dropbox](https://play.google.com/store/apps/details?id=com.dropbox.android)|[Nextcloud](https://nextcloud.com/) (auto-host)|
+|Email|[Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm), app padrão de Email do seu celular|[K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/), [pEp](https://f-droid.org/packages/security.pEp/)|
+|Sincronizador de calendário|[Calendário do Google](https://www.google.com/calendar/about/)|[Calendário Nextcloud](https://apps.nextcloud.com/apps/calendar)|
+|Cliente de Calendário|[Calendário do Google](https://play.google.com/store/apps/details?id=com.google.android.calendar)|[Simple Calendar](https://f-droid.org/packages/com.simplemobiletools.calendar/)|
+|Tarefas|[Wunderlist](https://play.google.com/store/apps/details?id=com.wunderkinder.wunderlistandroid), [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks)|[Tasks](https://f-droid.org/en/packages/org.dmfs.tasks/) (Sincroniza com Nextcloud Tasks com DAVdroid)|
+|Leitor de PDF|[Google PDF Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.pdfviewer&hl=en_US)|[Document Viewer](https://f-droid.org/en/packages/org.sufficientlysecure.viewer/), [MuPDF](https://f-droid.org/en/packages/com.artifex.mupdf.viewer.app/)|
 
-## Instant messaging
+## Mensagens Instantâneas
 
-Note: Most IM networks do not have FOSS clients or even open API for making those. 😥
+Nota: Várias redes de mensageiros instantâneos não tem um cliente código aberto ou mesmo uma API para criá-lo. 😥
 
-* [Telegram](https://f-droid.org/en/packages/org.telegram.messenger/) - Messaging platform, similar to WhatsApp (FOSS fork, do not use Google Play version, it has proprietary dependencies!)
-* [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) - Up-to-date, maintained and modern standards supporting XMPP client for Android
-* [Signal](https://signal.org/android/apk/) ([open source](https://github.com/signalapp/Signal-Android), proprietary apk, has Google dependencies!)
-* [Riot.im](https://f-droid.org/packages/im.vector.alpha/) - Matrix client
-* Facebook Messenger - [MaterialFBook](https://github.com/ZeeRooo/MaterialFBook) has messaging support!
+* [Telegram](https://f-droid.org/en/packages/org.telegram.messenger/) - Plataforma de mensagens, similar ao WhatsApp (fork FOSS, não use a versão da Google Play pois possui dependências proprietárias!)
+* [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) - Suporte a padrões atualizados, modernos e mantidos com XMPP client para Android
+* [Signal](https://signal.org/android/apk/) ([Código aberto](https://github.com/signalapp/Signal-Android), APK proprietário, possui dependências Google!)
+* [Riot.im](https://f-droid.org/packages/im.vector.alpha/) - Cliente Matrix
+* Facebook Messenger - [MaterialFBook](https://github.com/ZeeRooo/MaterialFBook) com suporte a mensagens!
 
-## Social media
+## Mídia Social
 
-|Proprietary app|FOSS App/Web-based alternative client|
+|App proprietário|App FOSS/Cliente Baseado na Web como alternativa|
 |---------------|-------------------------------------|
 |Reddit|[Slide](https://f-droid.org/en/packages/me.ccrama.redditslide/)|
-|[Twitter](https://play.google.com/store/apps/details?id=com.twitter.android)|Use [Twitter Lite](https://mobile.twitter.com/home) mobile site and add to home screen|
-|[Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en)|[MaterialFBook](https://github.com/ZeeRooo/MaterialFBook) (Improved mobile site wrapper for Facebook)|
-|[Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)|Use [Instagram mobile site](https://www.instagram.com/) and add it to your home screen ([more info on that](https://www.androidpolice.com/2017/05/10/instagram-new-mobile-web-app-ability-upload-photos/))|
+|[Twitter](https://play.google.com/store/apps/details?id=com.twitter.android)|Use o site móvel [Twitter Lite](https://mobile.twitter.com/home) e adicione na sua home screen|
+|[Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en)|[MaterialFBook](https://github.com/ZeeRooo/MaterialFBook) (Site móvel aprimorado para Facebook)|
+|[Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)|Use o site móvel [Instagram mobile site](https://www.instagram.com/) e adicione na sua home screen ([mais informações aqui](https://www.androidpolice.com/2017/05/10/instagram-new-mobile-web-app-ability-upload-photos/))|
 
-## Other
+## Outros
 
-|Proprietary app|FOSS App|
+|App proprietário|App código aberto|
 |---------------|--------|
-|[YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en)|[NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) (youtube client), [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) (proprietary, modded version of the original YouTube client, no ads, etc.)
-|Google Assistant|[Just Search](https://f-droid.org/packages/co.pxhouse.sas/) (just search but works for the button (long press home button)) or Fennec F-Droid/Firefox's Assist Feature (opens url box inside the app)|
+|[YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en)|[NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) (Cliente Youtube), [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) (Proprietário, versão modificada do app original sem propagandas, etc.)
+|Google Assistant|[Just Search](https://f-droid.org/packages/co.pxhouse.sas/) (apenas pesquisa, mas funciona para o botão (pressionamento do botão home)) ou Fennec F-Droid/Firefox's Assist Feature (abre uma caixa URL no app)|
 
 <!--
 
@@ -74,21 +77,22 @@ Note: Most IM networks do not have FOSS clients or even open API for making thos
 
 -->
 
-## DNS Resolvers
+## Provedores de DNS
 
-It's important to choose privacy respecting DNS resolver.
+É importante escolher a privacidade respeitando o provedor de DNS.
 
-Few ones I recommend can be found from [my wiki](https://wiki.lelux.fi/dns/resolvers).
+Alguns que recomendo podem ser encontrados na [minha wiki](https://wiki.lelux.fi/dns/resolvers).
 
-Use [DNS-over-TLS](https://wiki.lelux.fi/dns-over-tls/#android), DNS-over-HTTPS or DNSCrypt if possible to encrypt the connection.
+Use o [DNS-over-TLS](https://wiki.lelux.fi/dns-over-tls/#android), DNS-over-HTTPS ou DNSCrypt se possível para criptografar sua conexão.
 
-You can change your DNS resolver for example in [Blokada](https://blokada.org/) or [Nebulo](https://smokescreen.app/) (DNS-over-TLS & DNS-over-HTTPS).
+Você pode mudar o provedor DNS por exemplo em [Blokada](https://blokada.org/) ou [Nebulo](https://smokescreen.app/) (DNS-over-TLS & DNS-over-HTTPS).
 
 
-## Some other tips and links
+## Alguns outros apps e links úteis
 
-* [My Firefox recommendations](https://github.com/theel0ja/firefox-recommendations/blob/master/README.md)
-* [uBlock Origin recommendations](https://github.com/theel0ja/ubo-recommendations/blob/master/README.md)
+* [Minhas recomendações para Firefox](https://github.com/theel0ja/firefox-recommendations/blob/master/README.md) (Original)
+* [Recomendações para uBlock Origin](https://github.com/theel0ja/ubo-recommendations/blob/master/README.md)
 * [Telegram-FOSS Offtopics](https://t.me/tfossofftop) (general discussion about Free and Open Source software)
-* [Small Privacy & Security Guide for Android](https://t.me/AOSDPx/80) by [@Thespartann](https://github.com/Thespartann)
-* [MicroG Support Group on Telegram](https://t.me/microGSupport) 
+* [Pequeno guia para privacidade e segurança no Android](https://t.me/AOSDPx/80) por [@Thespartann](https://github.com/Thespartann)
+* [Grupo de suporte ao Micro G no Telegram](https://t.me/microGSupport) 
+ 

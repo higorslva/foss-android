@@ -90,7 +90,7 @@ Você pode mudar o provedor DNS por exemplo em [Blokada](https://blokada.org/) o
 
 ## Alguns outros apps e links úteis
 
-* [Minhas recomendações para Firefox](https://github.com/theel0ja/firefox-recommendations/blob/master/README.md) (Original)
+* [Minhas recomendações para Firefox](https://github.com/theel0ja/firefox-recommendations/blob/master/README.md) (Link do autor original, em inglês)
 * [Recomendações para uBlock Origin](https://github.com/theel0ja/ubo-recommendations/blob/master/README.md)
 * [Telegram-FOSS Offtopics](https://t.me/tfossofftop) (general discussion about Free and Open Source software)
 * [Pequeno guia para privacidade e segurança no Android](https://t.me/AOSDPx/80) por [@Thespartann](https://github.com/Thespartann)

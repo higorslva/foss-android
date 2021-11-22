@@ -8,7 +8,7 @@ Sinta-se livre para [contribuir](https://github.com/theel0ja/foss-android/edit/m
 
 ## Sistema Operacional
 
-|Proprietary app|FOSS App|
+|App proprietário|Alternativa de código aberto|
 |---------------|--------|
 |Android|[Fork Lineage OS com MicroG](https://lineage.microg.org/) (se disponível), [LineageOS](https://lineageos.org/)|
 |[Google Play services](https://pt.wikipedia.org/wiki/Google_Play_Services)|[microG](https://microg.org/)|

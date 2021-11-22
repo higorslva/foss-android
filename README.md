@@ -1,6 +1,6 @@
 # FOSS-Android
 [Lista Original]:(https://github.com/theel0ja/foss-android/edit/master/README.md)
-Traduzido e adaptado por [mim] (https://github.com/higorslva)
+Traduzido e adaptado por [@higorslva](https://github.com/higorslva)
 
 Lista de software [livres e códigos abertos](https://pt.wikipedia.org/wiki/Software_livre_e_de_c%C3%B3digo_aberto) alternativos para softwares proprietarios no Android.
 

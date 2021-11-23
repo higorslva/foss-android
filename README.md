@@ -89,10 +89,11 @@ Você pode mudar o provedor DNS por exemplo em [Blokada](https://blokada.org/) o
 
 
 ## Alguns outros apps e links úteis
+(Todos os links são do autor original, em inglês)
 
-* [Minhas recomendações para Firefox](https://github.com/theel0ja/firefox-recommendations/blob/master/README.md) (Link do autor original, em inglês)
+* [Minhas recomendações para Firefox](https://github.com/theel0ja/firefox-recommendations/blob/master/README.md)
 * [Recomendações para uBlock Origin](https://github.com/theel0ja/ubo-recommendations/blob/master/README.md)
-* [Telegram-FOSS Offtopics](https://t.me/tfossofftop) (general discussion about Free and Open Source software)
+* [Telegram-FOSS Offtopics](https://t.me/tfossofftop) (discussão geral sobre software livre e código aberto)
 * [Pequeno guia para privacidade e segurança no Android](https://t.me/AOSDPx/80) por [@Thespartann](https://github.com/Thespartann)
 * [Grupo de suporte ao Micro G no Telegram](https://t.me/microGSupport) 
  

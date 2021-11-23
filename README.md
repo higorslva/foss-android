@@ -59,7 +59,7 @@ Nota: Várias redes de mensageiros instantâneos não tem um cliente código abe
 |Reddit|[Slide](https://f-droid.org/en/packages/me.ccrama.redditslide/)|
 |[Twitter](https://play.google.com/store/apps/details?id=com.twitter.android)|Use o site móvel [Twitter Lite](https://mobile.twitter.com/home) e adicione na sua home screen|
 |[Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en)|[MaterialFBook](https://github.com/ZeeRooo/MaterialFBook) (Site móvel aprimorado para Facebook)|
-|[Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)|Use o site móvel [Instagram mobile site](https://www.instagram.com/) e adicione na sua home screen ([mais informações aqui](https://www.androidpolice.com/2017/05/10/instagram-new-mobile-web-app-ability-upload-photos/))|
+|[Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)|Use o site móvel [Instagram](https://www.instagram.com/) e adicione na sua home screen ([mais informações aqui](https://www.androidpolice.com/2017/05/10/instagram-new-mobile-web-app-ability-upload-photos/))|
 
 ## Outros
 

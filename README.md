@@ -1,8 +1,8 @@
 # FOSS-Android
 FOSS = Free Open Source Software.
 
-[Lista Original]:(https://github.com/theel0ja/foss-android/edit/master/README.md)
-[Autor original]:(https://github.com/theel0ja)
+[Lista Original](https://github.com/theel0ja/foss-android/edit/master/README.md)
+[Autor original](https://github.com/theel0ja)
 
 Traduzido e adaptado por [@higorslva](https://github.com/higorslva)
 

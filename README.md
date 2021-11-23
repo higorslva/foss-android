@@ -47,8 +47,8 @@ Sinta-se livre para [contribuir](https://github.com/theel0ja/foss-android/edit/m
 Nota: Várias redes de mensageiros instantâneos não tem um cliente código aberto ou mesmo uma API para criá-lo. 😥
 
 * [Telegram](https://f-droid.org/en/packages/org.telegram.messenger/) - Plataforma de mensagens, similar ao WhatsApp (fork FOSS, não use a versão da Google Play pois possui dependências proprietárias!)
-* [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) - Suporte a padrões atualizados, modernos e mantidos com XMPP client para Android
-* [Signal](https://signal.org/android/apk/) ([Código aberto](https://github.com/signalapp/Signal-Android), APK proprietário, possui dependências Google!)
+* [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) - Suporte a padrões atualizados, modernos e mantidos com cliente XMPP para Android
+* [Signal](https://signal.org/android/apk/) ([Código aberto](https://github.com/signalapp/Signal-Android), APK proprietário, possui dependências do Google!)
 * [Riot.im](https://f-droid.org/packages/im.vector.alpha/) - Cliente Matrix
 * Facebook Messenger - [MaterialFBook](https://github.com/ZeeRooo/MaterialFBook) com suporte a mensagens!
 
@@ -81,7 +81,7 @@ Nota: Várias redes de mensageiros instantâneos não tem um cliente código abe
 
 É importante escolher a privacidade respeitando o provedor de DNS.
 
-Alguns que recomendo podem ser encontrados na [minha wiki](https://wiki.lelux.fi/dns/resolvers).
+Alguns que recomendo podem ser encontrados na [minha wiki](https://wiki.lelux.fi/dns/resolvers). (Link do autor original, em inglês)
 
 Use o [DNS-over-TLS](https://wiki.lelux.fi/dns-over-tls/#android), DNS-over-HTTPS ou DNSCrypt se possível para criptografar sua conexão.
 

@@ -46,6 +46,7 @@ Sinta-se livre para [contribuir](https://github.com/theel0ja/foss-android/edit/m
 |Cliente de Calendário|[Calendário do Google](https://play.google.com/store/apps/details?id=com.google.android.calendar)|[Simple Calendar](https://f-droid.org/packages/com.simplemobiletools.calendar/)|
 |Tarefas|[Wunderlist](https://play.google.com/store/apps/details?id=com.wunderkinder.wunderlistandroid), [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks)|[Tasks](https://f-droid.org/en/packages/org.dmfs.tasks/) (Sincroniza com Nextcloud Tasks com DAVdroid)|
 |Leitor de PDF|[Google PDF Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.pdfviewer&hl=en_US)|[Document Viewer](https://f-droid.org/en/packages/org.sufficientlysecure.viewer/), [MuPDF](https://f-droid.org/en/packages/com.artifex.mupdf.viewer.app/), [KOReader](https://f-droid.org/en/packages/org.koreader.launcher/)|
+|Anotações| [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep&hl=pt_BR&gl=US), Samsung Notes| [Notally](https://f-droid.org/pt_BR/packages/com.omgodse.notally)|
 
 ## Mensagens Instantâneas
 

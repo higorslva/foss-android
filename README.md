@@ -17,7 +17,7 @@ Sinta-se livre para [contribuir](https://github.com/theel0ja/foss-android/edit/m
 |---------------|--------|
 |Android|[Fork Lineage OS com MicroG](https://lineage.microg.org/) (se disponível), [LineageOS](https://lineageos.org/), [/e/](https://e.foundation/)|
 |[Google Play services](https://pt.wikipedia.org/wiki/Google_Play_Services)|[microG](https://microg.org/)|
-|[Google Play Store](https://pt.wikipedia.org/wiki/Google_Play)|[F-Droid](https://f-droid.org/pt/) (Apenas apps FOSS), [Aurora Store](https://f-droid.org/en/packages/com.dragons.aurora/) ou [Yalp Store](https://f-droid.org/packages/com.github.yeriomin.yalpstore/) (Clientes gratuitos para a Play Store)|
+|[Google Play Store](https://pt.wikipedia.org/wiki/Google_Play)|[F-Droid](https://f-droid.org/pt/) (Apenas apps FOSS), [Aurora Store](https://f-droid.org/en/packages/com.dragons.aurora/) ou [Yalp Store](https://f-droid.org/packages/com.github.yeriomin.yalpstore/) (Clientes gratuitos para a Play Store, sem conta e rastreio)|
 
 ## Deve ter esses aplicativos
 

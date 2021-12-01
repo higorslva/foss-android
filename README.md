@@ -16,7 +16,7 @@ Antes de tudo, recomendo ler essa thread no [Reddit](https://www.reddit.com/r/Li
 
 |Proprietário|Alternativa de código aberto|
 |---------------|--------|
-|Android Stock (padrão da fabricante)|[Fork Lineage OS com MicroG](https://lineage.microg.org/) (se disponível), [LineageOS](https://lineageos.org/), [/e/](https://e.foundation/), [Ubuntu Touch](https://ubuntu-touch.io/)(Lista de aparelhos suportados [aqui](https://ubuntu-touch.io/)|
+|Android Stock (padrão da fabricante)|[Fork Lineage OS com MicroG](https://lineage.microg.org/) (se disponível), [LineageOS](https://lineageos.org/), [/e/](https://e.foundation/), [Ubuntu Touch](https://ubuntu-touch.io/)(Lista de aparelhos suportados [aqui](https://devices.ubuntu-touch.io/)|
 |[Google Play services](https://pt.wikipedia.org/wiki/Google_Play_Services)|[microG](https://microg.org/)|
 |[Google Play Store](https://pt.wikipedia.org/wiki/Google_Play)|[F-Droid](https://f-droid.org/pt/) (Apenas apps FOSS), [Aurora Store](https://f-droid.org/en/packages/com.dragons.aurora/) ou [Yalp Store](https://f-droid.org/packages/com.github.yeriomin.yalpstore/) (Clientes gratuitos para a Play Store, sem conta e rastreio)|
 

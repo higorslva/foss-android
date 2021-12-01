@@ -6,20 +6,21 @@ Lista original: [aqui](https://github.com/theel0ja/foss-android/edit/master/READ
 Autor original: [@theel0ja](https://github.com/theel0ja)
 
 Traduzido e adaptado por [@higorslva](https://github.com/higorslva)
+-------------------------------------------------------------------------------------
 
 Lista de software [livres e códigos abertos](https://pt.wikipedia.org/wiki/Software_livre_e_de_c%C3%B3digo_aberto) alternativos para softwares proprietarios no Android.
 
 Sinta-se livre para [contribuir](https://github.com/theel0ja/foss-android/edit/master/README.md), [forkear](https://github.com/theel0ja/foss-android/fork) e favoritar essa lista. :)
-
+Antes de tudo, recomendo ler essa thread no [Reddit](https://www.reddit.com/r/LineageOS/comments/cl5c90/degoogling_lineageos_instructions_august_2019/) para retirar algumas conexôes com servidor da Google e uso de DNS (em inglês)
 ## Sistema Operacional
 
-|App proprietário|Alternativa de código aberto|
+|Proprietário|Alternativa de código aberto|
 |---------------|--------|
-|Android|[Fork Lineage OS com MicroG](https://lineage.microg.org/) (se disponível), [LineageOS](https://lineageos.org/), [/e/](https://e.foundation/)|
+|Android Stock (padrão da fabricante)|[Fork Lineage OS com MicroG](https://lineage.microg.org/) (se disponível), [LineageOS](https://lineageos.org/), [/e/](https://e.foundation/)|
 |[Google Play services](https://pt.wikipedia.org/wiki/Google_Play_Services)|[microG](https://microg.org/)|
 |[Google Play Store](https://pt.wikipedia.org/wiki/Google_Play)|[F-Droid](https://f-droid.org/pt/) (Apenas apps FOSS), [Aurora Store](https://f-droid.org/en/packages/com.dragons.aurora/) ou [Yalp Store](https://f-droid.org/packages/com.github.yeriomin.yalpstore/) (Clientes gratuitos para a Play Store, sem conta e rastreio)|
 
-## Deve ter esses aplicativos
+## Alguns apps essenciais (recomendado, mas não obrigatório)
 
 * [AdAway](https://f-droid.org/packages/org.adaway/) (requer acesso root, eu recomendo adicionar `https://energized.pro/blu` como source) ou [Blokada](https://blokada.org/) (sem root, [grupo no telegram](https://t.me/blokadachat)) para bloquear propagandas e outros rastreadores.
 * [Copy to Clipboard](https://f-droid.org/en/packages/se.johanhil.clipboard/) ou [Share to Clipboard](https://f-droid.org/en/packages/com.tengu.sharetoclipboard/)
@@ -34,7 +35,7 @@ Sinta-se livre para [contribuir](https://github.com/theel0ja/foss-android/edit/m
 |Sincronizar contatos|[Google Contacts](https://en.wikipedia.org/wiki/Google_Contacts)|Servidor Nextcloud com [DAVdroid](https://f-droid.org/en/packages/at.bitfire.davdroid/) ([guia](https://www.davdroid.com/tested-with/nextcloud/))|
 |App de SMS|[Android Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging&hl=en), padrão do seu telefone|[Silence](https://f-droid.org/en/packages/org.smssecure.smssecure/), [QKSMS](https://f-droid.org/packages/com.moez.QKSMS/), [Signal](https://signal.org/android/apk/) ([código aberto](https://github.com/signalapp/Signal-Android), APK proprietário, com dependencias da Google!)|
 |Teclado|[Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin), [SwiftKey](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey), Teclado incluso na sua ROM|[Simple Keyboard](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/), [AnySoftKeyboard](https://anysoftkeyboard.github.io/), [OpenBoard](https://f-droid.org/packages/org.dslul.openboard.inputmethod.latin), Teclado AOSP (incluído na Lineage OS)|
-|App de início (Launcher)||[Lawnchair](https://f-droid.org/packages/ch.deletescape.lawnchair.plah/) ou [KISS Launcher](https://f-droid.org/en/packages/fr.neamar.kiss/) (bem minimalista)
+|App de início (Launcher)||[Lawnchair](https://f-droid.org/packages/ch.deletescape.lawnchair.plah/) ou [Bliss Launcher](https://f-droid.org/en/packages/foundation.e.blisslauncher/) (Padrão da /e/)
 
 ## Produtividade
 

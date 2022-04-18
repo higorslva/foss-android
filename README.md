@@ -42,7 +42,7 @@ Antes de tudo, recomendo ler essa thread no [Reddit](https://www.reddit.com/r/Li
 |Propósito|App proprietário|App código aberto|
 |-------|---------------|--------|
 |Armazenamento na nuvem|[Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs), [OneDrive](https://play.google.com/store/apps/details?id=com.microsoft.skydrive), [Dropbox](https://play.google.com/store/apps/details?id=com.dropbox.android)|[Nextcloud](https://nextcloud.com/) (auto-host)|
-|Email|[Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm), app padrão de Email do seu celular|[K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/), [pEp](https://f-droid.org/packages/security.pEp/)|
+|Email|[Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm), app padrão de Email do seu celular|[K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/), [pEp](https://f-droid.org/packages/security.pEp/), [FairMail](https://github.com/M66B/FairEmail)|
 |Sincronizador de calendário|[Calendário do Google](https://www.google.com/calendar/about/)|[Calendário Nextcloud](https://apps.nextcloud.com/apps/calendar)|
 |Cliente de Calendário|[Calendário do Google](https://play.google.com/store/apps/details?id=com.google.android.calendar)|[Simple Calendar](https://f-droid.org/packages/com.simplemobiletools.calendar/)|
 |Tarefas|[Wunderlist](https://play.google.com/store/apps/details?id=com.wunderkinder.wunderlistandroid), [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks)|[Tasks](https://f-droid.org/en/packages/org.dmfs.tasks/) (Sincroniza com Nextcloud Tasks com DAVdroid)|

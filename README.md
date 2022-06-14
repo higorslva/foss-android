@@ -72,7 +72,7 @@ Nota: Várias redes de mensageiros instantâneos não tem um cliente código abe
 
 |App proprietário|App código aberto|
 |---------------|--------|
-|[YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en)|[NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) (Cliente Youtube), [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) (Proprietário, versão modificada do app original sem propagandas, etc.)
+|[YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en)|[NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) (Cliente Youtube), [YouTube ReVanced](https://github.com/revanced) (Proprietário, versão modificada do app original sem propagandas, etc.)
 |Google Assistant|[Just Search](https://f-droid.org/packages/co.pxhouse.sas/) (apenas pesquisa, mas funciona para o botão (pressionamento do botão home)) ou Fennec F-Droid/Firefox's Assist Feature (abre uma caixa URL no app)|
 
 <!--
